@@ -1,5 +1,5 @@
 ## About Me  
-👋 Hi, I'm **Abdelrahman Alaa**, a passionate **Computer Science** student at **Misr University for Science and Technology (MUST)**. I have a strong interest in **backend development** and **API design**, and I'm always eager to learn new technologies and improve my coding skills.  
+### 👋 Hi, I'm **Abdelrahman Alaa**, a passionate **Computer Science** student at **Misr University for Science and Technology (MUST)**. I have a strong interest in **backend development** and **API design**, and I'm always eager to learn new technologies and improve my coding skills.  
 
 🔹 **Currently Learning:** API development  
 🔹 **Projects:**  
@@ -23,7 +23,6 @@
 
 ## Connect with Me
 
-- [LinkedIn]()
 - [Twitter](https://twitter.com/abdelrahman984)
 - 📫 **Contact Me:**  
 - 📧 Email: [rafeeq220044@gmail.com](mailto:rafeeq220044@gmail.com)  
