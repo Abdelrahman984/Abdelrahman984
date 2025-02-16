@@ -23,8 +23,8 @@
 
 ## Connect with Me
 - 📫 **Contact Me:**  
-- 📧 [Email](rafeeq220044@gmail.com)
-- 📞 [Phone](+201062574729)  
+📧 Email: [rafeeq220044@gmail.com](mailto:rafeeq220044@gmail.com)  
+- 📞 Phone: [+201062574729](tel:+201062574729)   
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-alaa-854ab4275/)
 
 Looking forward to connecting and collaborating with you!
