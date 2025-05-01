@@ -3,16 +3,14 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman984&theme=algolia&row=2&column=3" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman984&theme=algolia&row=1&column=3" alt="GitHub Profile Trophy" />
   </a>
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <a href="https://github.com/ByteBuilderFriends/EdufyAPI">Ask A Muslim API</a> <br>
   🌱 I’m currently learning <strong>ASP.Net Core Web Development</strong> <br>
   📫 How to reach me: <strong>rafeeq220044@gmail.com</strong> <br>
   📄 <a href="https://drive.google.com/file/d/1BRk6sRkNFHw-5RCG3noPmRdKUJ49T9yb/view?usp=sharing">Know about my experiences</a> <br>
-  👀 Fun fact: I enjoy debugging as much as building!
 </p>
 
 <h3 align="center">🌐 Connect with me:</h3>
