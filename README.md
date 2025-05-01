@@ -24,6 +24,9 @@
   <a href="https://discord.gg/852921820512649236" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" height="30"/>
   </a>
+  <a href="https://wa.me/<+201062574729>" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="30" height="30"/>
+  </a>
 </p>
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
